@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "name": "GAGAN BAGHEL",
+      "userName": "Gagan123",
+      "email": "gagansinghbaghel12@gmail.com",
+      "profileImage": "/xyz",
+      "password": "gagan@123",
+      "favourites": [
+        {
+          "bookName": "",
+          "audioPath": "",
+          "bookImage": "",
+          "bookId": "",
+          "bookAuthor": "",
+          "bookDescription": "",
+          "isPlaying": "",
+          "languagetype": "",
+          "ratings": [
+            {
+              "name": "",
+              "rating": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f748",
+      "name": "a",
+      "userName": "a",
+      "email": "gaganbaghelofficial@gmail.com",
+      "profileImage": "/xyz",
+      "password": "a",
+      "favourites": []
+    },
+    {
+      "id": "43c9",
+      "name": "a",
+      "userName": "a",
+      "email": "gagansinghbaghel15@gmail.com",
+      "profileImage": "/xyz",
+      "password": "a",
+      "favourites": []
+    }
+  ],
+  "books": [
+    {
+      "bookName": "",
+      "audioPath": "./mediaList/audio.mp3",
+      "bookImage": "",
+      "bookId": "",
+      "bookAuthor": "",
+      "bookDescription": "",
+      "isPlaying": "",
+      "languagetype": "",
+      "ratings": [
+        {
+          "name": "",
+          "rating": 5
+        }
+      ],
+      "genre": "Horror"
+    }
+  ]
+}
